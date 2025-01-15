@@ -3,6 +3,7 @@
 {% block title %}Hello FrontController!{% endblock %}
 
 {% block stylesheets %}
+    {{ parent() }}
     <link rel="stylesheet" href="{{ asset('css/index.css') }}" type="text/css">
 {% endblock %}
 
