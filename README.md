@@ -14,7 +14,7 @@ Installation
 Clone this repository:
 
 ```console
-https://github.com/abdounikarim/poc-symfony-handle-assets
+https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets
 ```
 
 Go on the project root folder:
