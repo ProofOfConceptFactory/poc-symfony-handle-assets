@@ -9,6 +9,8 @@
   "rebaseWhen": "behind-base-branch",
   "automerge": true,
   "automergeType": "pr",
-  "platformAutomerge": true
+  "platformAutomerge": true,
+  "branchTopic": "{{{depName}}}-{{{newVersion}}}",
+  "prTitle": "Update {{{depName}}} to v{{{newVersion}}}"
 }
 
