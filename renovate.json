@@ -12,5 +12,7 @@
   "platformAutomerge": true,
   "branchPrefix": "renovate/",
   "branchTopic": "{{{depName}}}-{{{newVersion}}}",
-  "commitMessage": "Update {{{depName}}} to v{{{newVersion}}}"
+  "commitMessage": "Update {{{depName}}} to v{{{newVersion}}}",
+  "groupName": null,
+  "separateMinorPatch": true
 }
