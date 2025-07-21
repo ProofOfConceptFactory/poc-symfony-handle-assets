@@ -10,6 +10,7 @@
   "automerge": true,
   "automergeType": "pr",
   "platformAutomerge": true,
+  "branchPrefix": "renovate/",
   "branchTopic": "{{{depName}}}-{{{newVersion}}}",
   "commitMessage": "Update {{{depName}}} to v{{{newVersion}}}"
 }
