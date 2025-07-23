@@ -11,7 +11,7 @@
   "automergeType": "pr",
   "platformAutomerge": true,
   "branchPrefix": "renovate/",
-  "additionalBranchPrefix": "{{{newVersion}}}-",
-  "branchTopic": "{{{depName}}}",
+  "additionalBranchPrefix": "{{{depName}}}",
+  "branchTopic": "-{{{newVersion}}}",
   "commitMessageExtra": "to v{{{newVersion}}}"
 }
