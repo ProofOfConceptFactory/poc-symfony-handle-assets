@@ -35,7 +35,7 @@
         "symfony/serializer": "8.0.*",
         "symfony/string": "8.1.*",
         "symfony/translation": "8.1.*",
-        "symfony/twig-bundle": "7.4.*",
+        "symfony/twig-bundle": "8.1.*",
         "symfony/validator": "8.0.*",
         "symfony/web-link": "7.4.*",
         "symfony/yaml": "8.0.*",
